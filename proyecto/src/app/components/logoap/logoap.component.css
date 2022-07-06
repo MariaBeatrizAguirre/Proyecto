@@ -1,7 +1,16 @@
 #logo1{
-    width:100px;
-    height:100px;
+    width:150px;
+    height:80px;
+    margin: 10px;
     aling:"left";
-    class:"rounded-circle"
- 
+    /*class:"rounded-circle"
+ */
+ }
+ #logo2{
+    width:150px;
+    height:80px;
+    margin: 10px;
+    
+    /*class:"rounded-circle"
+ */
  }

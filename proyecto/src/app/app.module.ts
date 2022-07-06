@@ -5,12 +5,18 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { LogoapComponent } from './components/logoap/logoap.component';
+import { RedesComponent } from './components/redes/redes.component';
+import { BannerComponent } from './components/banner/banner.component';
+import { AcercadeComponent } from './components/acercade/acercade.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    LogoapComponent
+    LogoapComponent,
+    RedesComponent,
+    BannerComponent,
+    AcercadeComponent
   ],
   imports: [
     BrowserModule,

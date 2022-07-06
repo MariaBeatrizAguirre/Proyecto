@@ -1,3 +1,7 @@
 div{
     background-color: lightblue;
 }
+app-redes{
+    float: right;
+    margin: 10px;
+}
