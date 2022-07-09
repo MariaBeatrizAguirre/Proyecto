@@ -1,0 +1,39 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color: lightblue;
+    text-align: center;
+}
+
+#nombre{
+    font-weight: bold;
+    margin-top: 20%;
+    margin-left: 5px;
+}
+
+@media(min-width:576px){
+    #foto{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 3%;
+        top: 220px;
+        
+    }
+}
+
+@media(max-width:575px){
+    #foto{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 30%;
+        top: 400px;
+        
+    }
+}
+
