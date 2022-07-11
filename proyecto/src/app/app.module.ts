@@ -13,7 +13,6 @@ import { EstudiosComponent } from './components/estudios/estudios.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { CirculosComponent } from './components/circulos/circulos.component';
 import { EnsayosComponent } from './components/ensayos/ensayos.component';
-import { FooterComponent } from './component/footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
