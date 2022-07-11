@@ -24,9 +24,7 @@ import { EnsayosComponent } from './components/ensayos/ensayos.component';
     ExperienciaComponent,
     EstudiosComponent,
     CirculosComponent,
-    EnsayosComponent,
-    FooterComponent
-  ],
+    EnsayosComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
