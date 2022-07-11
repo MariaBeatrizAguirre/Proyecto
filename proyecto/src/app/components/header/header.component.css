@@ -1,5 +1,11 @@
 div{
     background-color: lightblue;
+    border: 1px outset rgb(24, 22, 22);
+    text-align: left;
+    padding-right: 1em;
+    border-radius: 5px;
+    size: auto;
+
 }
 app-redes{
     float: right;

@@ -1,10 +1,23 @@
 .row{
     padding: 20px;
+    border: 1px outset rgb(24, 22, 22);
+    padding-right: 1em;
+    border-radius: 5px;
+    size: auto;
 }
 
 div{
     background-color: lightblue;
     text-align: center;
+   
+
+}
+
+.exterior{
+    border: 1px outset rgb(24, 22, 22);
+    padding-right: 1em;
+    border-radius: 5px;
+    size: auto;
 }
 
 #nombre{
