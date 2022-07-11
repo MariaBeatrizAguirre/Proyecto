@@ -13,6 +13,7 @@ import { EstudiosComponent } from './components/estudios/estudios.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { CirculosComponent } from './components/circulos/circulos.component';
 import { EnsayosComponent } from './components/ensayos/ensayos.component';
+import { TerminoComponent } from './components/termino/termino.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +25,8 @@ import { EnsayosComponent } from './components/ensayos/ensayos.component';
     ExperienciaComponent,
     EstudiosComponent,
     CirculosComponent,
-    EnsayosComponent],
+    EnsayosComponent,
+    TerminoComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

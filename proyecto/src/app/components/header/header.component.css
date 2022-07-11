@@ -1,13 +1,17 @@
-div{
-    background-color: lightblue;
-    border: 1px outset rgb(24, 22, 22);
-    text-align: left;
-    padding-right: 1em;
-    border-radius: 5px;
-    size: auto;
-
+.row{
+        padding: 10px;
+        border: 1px outset rgb(24, 22, 22);
+        padding-right: 1em;
+        border-radius: 5px;
+        size: auto;
 }
+
+
+div{
+    background: lightblue;
+}
+
 app-redes{
     float: right;
-    margin: 10px;
+    margin: 5px;
 }
